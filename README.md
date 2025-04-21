@@ -2,7 +2,8 @@
 - 👀 I’m interested in Full Stack Development/DSA
 - 🌱 I’m currently learning Backend
 - 📫 Connect with me on LinkedIn->https://www.linkedin.com/in/shubham-kumar-914868210/
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shu5046)
+- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shu5046)
+
 
 
 <!---
